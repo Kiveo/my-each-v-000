@@ -8,7 +8,7 @@ def my_each(array)
     end
     array
   else
-    puts "Missing information for array code block"
+    "Missing information for array code block"
   end
 
 end
