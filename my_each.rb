@@ -1,4 +1,4 @@
-def my_each(array) { |element| puts element}
+def my_each(array)
   # code here
   if block_given?
     i = 0
