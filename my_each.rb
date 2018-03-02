@@ -6,9 +6,9 @@ def my_each(array) {|element| puts element}
       yield(array[i])
       i += 1
     end
-    array 
+    array
   else
     puts "Missing information for array code block"
   end
-    
+
 end
